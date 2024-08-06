@@ -60,6 +60,6 @@ keyboard.wait('enter')  # 等待按下回车键
 start_task()
 
 print("Press ESC key to stop the task...")
-keyboard.wait('esc')  # 等待按下向下键
+keyboard.wait('esc')  # 等待按下esc键
 stop_task()
 print("Task stopped.")
